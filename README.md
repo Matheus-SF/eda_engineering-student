@@ -13,24 +13,24 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) com base no conju
 
 ## Sumário
 
-Variável	Descrição	Tipo	Categoria
-Student ID	Identificador único de cada aluno (UUID)	String	Identificador
-Name	Nome do estudante (anonimizado)	String	Identificador
-Age	Idade do estudante	Integer	Numérica
-Gender	Gênero do estudante (Male/Female)	Categórica	Demográfica
-Branch	Curso acadêmico (e.g., CSE, ECE, MECH)	Categórica	Acadêmica
-Average GPA	Média geral de GPA (0-10)	Float	Numérica
-Backlogs	Número de reprovações	Integer	Acadêmica
-Attendance (%)	Porcentagem de presença nas aulas	Float	Acadêmica
-Clubs	Clubes extracurriculares (e.g., Robotics, Coding)	String	Extracurricular
-Skills	Habilidades técnicas (e.g., Python, ML)	String	Técnica
-Internship Done	Fez estágio? (Yes/No)	Categórica	Profissional
-Internship Domain	Área de estágio (e.g., Software, Research)	Categórica	Profissional
-Placement Status	Foi contratado? (Placed/Not Placed)	Categórica	Resultado
-Placement Domain	Área de contratação (e.g., Software, Core Eng.)	Categórica	Resultado
-CTC (LPA)	Salário anual em LPA (0 se não foi contratado)	Float	Resultado
-Alumni Path	Caminho após graduação (e.g., Job, Higher Studies)	Categórica	Pós-graduação
-Sem1 GPA - Sem8 GPA	GPA por semestre (0-10)	Float	Acadêmica
+
+- Student ID	Identificador único de cada aluno (UUID)	String	Identificador
+- Name	Nome do estudante (anonimizado)	String	Identificador
+- Age	Idade do estudante	Integer	Numérica
+- Gender	Gênero do estudante (Male/Female)	Categórica	Demográfica
+- Branch	Curso acadêmico (e.g., CSE, ECE, MECH)	Categórica	Acadêmica
+- Average GPA	Média geral de GPA (0-10)	Float	Numérica
+- Backlogs	Número de reprovações	Integer	Acadêmica
+- Attendance (%)	Porcentagem de presença nas aulas	Float	Acadêmica
+- Clubs	Clubes extracurriculares (e.g., Robotics, Coding)	String	Extracurricular
+- Skills	Habilidades técnicas (e.g., Python, ML)	String	Técnica
+- Internship Done	Fez estágio? (Yes/No)	Categórica	Profissional
+- Internship Domain	Área de estágio (e.g., Software, Research)	Categórica	Profissional
+- Placement Status	Foi contratado? (Placed/Not Placed)	Categórica	Resultado
+- Placement Domain	Área de contratação (e.g., Software, Core Eng.)	Categórica	Resultado
+- CTC (LPA)	Salário anual em LPA (0 se não foi contratado)	Float	Resultado
+- Alumni Path	Caminho após graduação (e.g., Job, Higher Studies)	Categórica	Pós-graduação
+- Sem1 GPA - Sem8 GPA	GPA por semestre (0-10)	Float	Acadêmica
 
 ---
 ## Perguntas a serem respondidas:
